@@ -1,0 +1,40 @@
+{
+  "ProjectName": "svg-editor",
+  "ProjectGuid": "89a7786f-70c8-4bee-8fd6-7359712667bd",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.svgeditor",
+  "DisplayName": "svg-editor",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2d553a16-5e6d-4462-b221-5a4e18e4abc4}",
+  "WP8ProductID": "{1eb6ded4-39fc-4b85-8dd1-9610492edea0}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.svgeditor",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
